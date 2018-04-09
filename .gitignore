@@ -1,0 +1,11 @@
+.vagrant
+/vendor
+/bower_components
+/node_modules
+/public/coverage
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+*.map
+.idea

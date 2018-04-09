@@ -1,0 +1,24 @@
+{
+  "name": "bdgt",
+  "author": "Sara Bine",
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "accounting-js": "~1.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-datepicker": "~1.6",
+    "chart.js": "~2.5",
+    "bootstrap-slider": "~9.7",
+    "datatables": "~1.10",
+    "datatables.net-bs": "~1.10",
+    "font-awesome": "~4.3",
+    "fullcalendar": "~3.1",
+    "gulp": "~3.9",
+    "laravel-elixir": "^6.0.0-10",
+    "moment": "~2.21",
+    "moment-duration-format": "~1.3"
+  }
+}
